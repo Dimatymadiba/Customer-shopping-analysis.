@@ -2,6 +2,11 @@
 
 ### Project overview
 jjjjjjjjjjj
+
+
+![power bi chat](https://github.com/Dimatymadiba/Customer-shopping-dashboard/assets/160989746/34dda12b-5138-4ec3-aa5e-f1d040627d39)
+
+
 ## Data sources
 jjjjjj
 ### Tools used

@@ -20,7 +20,14 @@ jjjjjj
 questions
 ### Data analysis
 ```sql
-SELECT*
+SELECT count ( "customer ID" )
+FROM retail_customer
+```
+how to get age average
+```sql
+SELECT AVG(Age) AS average_age
+FROM  retail_customer
+```
 FROM table1
 WHERE D
 ```

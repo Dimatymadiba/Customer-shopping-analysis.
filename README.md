@@ -14,8 +14,25 @@ jjjjjj
 - SQL
 - Power BI (Creating dashboard )
 ### Data cleaning and preparation
-1. what you did for data cleaning
--- ff
+#### using excel 
+##### Step 1: Import data
+- Imported raw data into Excel from CSV file.
+- Ensured that all data columns were properly formatted .I changed date formates.
+
+ #### Using SQL
+##### Step 1: Import Data
+- Imported cleaned Excel data into SQL database.
+- Used mySQL workbench.
+- Used the ```'Import Data'``` wizard to load SQL table .
+  
+##### Step 2: Handlilng missing Values
+- Dealt with any missing value using this query.
+
+ ```sql
+ SELECT*
+ WHERE column IS NULL;
+  ```
+  
 ### Exoloratory data analysis
 questions
 ### Data analysis

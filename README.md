@@ -34,7 +34,7 @@ jjjjjj
   ```
   
 ### Exploratory data analysis
-##### Questions asked to come up with the customer behaviour investigation :
+##### Hyothetical Questions asked to come up with the customer behaviour investigation:
 - Which month has the highest total quantity of purchases?
 - Are there any noticeble trends or seasonal patterns in monthly purchases?
 - Which day of the week has the highest total sales for each product categort?
@@ -53,9 +53,8 @@ how to get age average
 SELECT AVG(Age) AS average_age
 FROM  retail_customer
 ```
-FROM table1
-WHERE D
-```
+
+
 ### Results/ analysis findings
 gggg
 ### Recommendations

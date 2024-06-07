@@ -3,10 +3,6 @@
 ### Project overview
 The Customer Shopping Dashboard project integrates Excel, SQL, and Power BI to deliver in-depth insights into consumer purchasing behaviors. Data from the retail customer table is meticulously extracted and refined using SQL to maintain precision and relevance. Excel aids in preliminary data manipulation and exploratory analysis. Subsequently, Power BI is used to develop an interactive dashboard that visualizes critical metrics, including the total number of customers, average age, purchasing patterns, and sales performance. This cohesive approach promotes data-driven decision-making and enhances the comprehension of customer trends.
 
-
-![power bi chat](https://github.com/Dimatymadiba/Customer-shopping-dashboard/assets/160989746/34dda12b-5138-4ec3-aa5e-f1d040627d39)
-
-
 ## Data sources
 jjjjjj
 ### Tools used
@@ -54,28 +50,33 @@ SELECT AVG(Age) AS average_age
 FROM  retail_customer
 ```
 
+![power bi chat](https://github.com/Dimatymadiba/Customer-shopping-dashboard/assets/160989746/34dda12b-5138-4ec3-aa5e-f1d040627d39)
+
+
 
 ### Results/ analysis findings
-Results/Analysis Findings
-Peak Purchase Months: Analysis revealed that [insert month] has the highest total quantity of purchases, indicating potential seasonal trends in consumer behavior.
 
-Day-wise Sales Performance: On [insert day of the week], we observed the highest total sales for each product category, suggesting targeted marketing efforts on this day may yield better results.
+- Peak Purchase Months: Analysis revealed that [insert month] has the highest total quantity of purchases, indicating potential seasonal trends in consumer behavior.
 
-Gender-based Sales Insights: [Insert product category] emerged as the highest total sales amount for each gender, highlighting potential gender-specific marketing strategies.
+- Day-wise Sales Performance: On [insert day of the week], we observed the highest total sales for each product category, suggesting targeted marketing efforts on this day may yield better results.
 
-Weekday vs. Weekend Trends: Analysis showed variations in sales performance between weekdays and weekends, suggesting the need for tailored promotional activities to leverage these differences effectively.
+- Gender-based Sales Insights: [Insert product category] emerged as the highest total sales amount for each gender, highlighting potential gender-specific marketing strategies.
+
+- Weekday vs. Weekend Trends: Analysis showed variations in sales performance between weekdays and weekends, suggesting the need for tailored promotional activities to leverage these differences effectively.
+
 ### Recommendations
-Seasonal Campaigns: Develop targeted marketing campaigns during peak purchase months to capitalize on heightened consumer spending.
 
-Day-specific Promotions: Implement promotions and discounts on [insert day of the week] to maximize sales across product categories.
+- Seasonal Campaigns: Develop targeted marketing campaigns during peak purchase months to capitalize on heightened consumer spending.
 
-Gender-targeted Marketing: Tailor marketing efforts to align with gender preferences for specific product categories, thereby optimizing sales potential.
+- Day-specific Promotions: Implement promotions and discounts on [insert day of the week] to maximize sales across product categories.
 
-Weekday/Weekend Strategies: Devise strategies to leverage weekday and weekend sales trends effectively, such as offering weekday-specific promotions or adjusting inventory levels based on anticipated demand patterns.
+- Gender-targeted Marketing: Tailor marketing efforts to align with gender preferences for specific product categories, thereby optimizing sales potential.
 
-Continuous Monitoring: Regularly monitor sales performance and consumer trends to adapt marketing strategies and maintain competitiveness in the market.
+- Weekday/Weekend Strategies: Devise strategies to leverage weekday and weekend sales trends effectively, such as offering weekday-specific promotions or adjusting inventory levels based on anticipated demand patterns.
 
-By implementing these recommendations, we aim to enhance the effectiveness of marketing initiatives, optimize sales performance, and ultimately drive business growth.
+- Continuous Monitoring: Regularly monitor sales performance and consumer trends to adapt marketing strategies and maintain competitiveness in the market.
+
+- By implementing these recommendations, we aim to enhance the effectiveness of marketing initiatives, optimize sales performance, and ultimately drive business growth.
 
 
 

@@ -1,7 +1,7 @@
 # Customer shopping analysis. 🛒🛍️
 
 ### Project overview
-The Customer Shopping Dashboard project integrates Excel, SQL, and Power BI to deliver in-depth insights into consumer purchasing behaviors. Data from the retail customer table is meticulously extracted and refined using SQL to maintain precision and relevance. Excel aids in preliminary data manipulation and exploratory analysis. Subsequently, Power BI is used to develop an interactive dashboard that visualizes critical metrics, including the total number of customers, average age, purchasing patterns, and sales performance. This cohesive approach promotes data-driven decision-making and enhances the comprehension of customer trends.
+The Customer Shopping analysis project integrates Excel, SQL, and Power BI to deliver in-depth insights into consumer purchasing behaviors. Data from the retail customer table is meticulously extracted and refined using SQL to maintain precision and relevance. Excel aids in preliminary data manipulation and exploratory analysis. Subsequently, Power BI is used to develop an interactive dashboard that visualizes critical metrics, including the total number of customers, average age, purchasing patterns, and sales performance. This cohesive approach promotes data-driven decision-making and enhances the comprehension of customer trends.
 ### Table of contents
 1. [Data Sources](#data-sources)
 2. [Tools used](#tools-used)
@@ -12,7 +12,7 @@ The Customer Shopping Dashboard project integrates Excel, SQL, and Power BI to d
 7. [Recommendations](#recommendations)
    
 ### Data sources
-The CSV file utilized for the Customer Shopping Dashboard project was sourced from Kaggle, a leading platform for data science resources and datasets. This specific dataset, originating from a retail store, served as the primary data source for our analysis, enabling us to delve into and derive insights on consumer shopping patterns.[Kaggle Profile](https://www.kaggle.com/your_username)
+The CSV file utilized for the Customer Shopping analysis project was sourced from Kaggle, a leading platform for data science resources and datasets. This specific dataset, originating from a retail store, served as the primary data source for our analysis, enabling us to delve into and derive insights on consumer shopping patterns.[Kaggle Profile](https://www.kaggle.com/your_username)
 ### Tools used
 - Microsoft excel (Data cleaning)
 - SQL
